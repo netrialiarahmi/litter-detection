@@ -40,4 +40,3 @@ The evaluation was carried out using **561 validation images**, excluding the wo
 
 ---
 
-Do you want me to make this **more concise like a project report** or **more formal like a journal paper section**?
